@@ -30,10 +30,6 @@ public class EmailValidation {
 			System.out.println("Invalid User");
 		}
 
-	}
-
-
-
-		
+	}	
 
 	}
